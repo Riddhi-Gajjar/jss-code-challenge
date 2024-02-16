@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  class="py-5 relative"
+>
+  <div>
+    <img
+      alt="Dummy Image"
+      class=""
+      data-nimg="1"
+      decoding="async"
+      height="1080"
+      loading="lazy"
+      src="https://scfedisc.dev.local/-/jssmedia/dummy-banner-image.png?h=1080&iar=0&w=1920&hash=46A21B3638D32FC1565FF965ACF25016&mw=3840"
+      srcset="https://scfedisc.dev.local/-/jssmedia/dummy-banner-image.png?h=1080&iar=0&w=1920&hash=46A21B3638D32FC1565FF965ACF25016&mw=1920 1x, https://scfedisc.dev.local/-/jssmedia/dummy-banner-image.png?h=1080&iar=0&w=1920&hash=46A21B3638D32FC1565FF965ACF25016&mw=3840 2x"
+      style="color: transparent;"
+      width="1920"
+    />
+  </div>
+  <div
+    class="container mx-auto flex"
+  >
+    <div
+      class="md:absolute top-1/2 md:-translate-y-1/2 flex flex-col text-white py-5 px-5 rounded bg-gradient-to-r from-indigo-500 font-bold font-mono"
+    >
+      Connected experiences fine-tuned for your customers
+      <div
+        class="max-w-[500px] mt-3"
+      >
+        <p>
+          Join Horizontal at Connections 2023 and discover how we create personalized and connected experiences tailored for every customer.
+        </p>
+      </div>
+      <a
+        class="hover:text-black"
+        href="https://www.horizontaldigital.com/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Read more
+        <span
+          class="sr-only"
+        >
+           (Opens in a new tab)
+        </span>
+        <span />
+      </a>
+      <a
+        class="bg-black px-4 py-2 rounded-full"
+        href="https://www.horizontaldigital.com/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Learn more
+        <span
+          class="sr-only"
+        >
+           (Opens in a new tab)
+        </span>
+        <span />
+      </a>
+    </div>
+  </div>
+</div>
+`;
